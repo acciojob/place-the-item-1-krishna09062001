@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.container
+.holder
 {
 	background-color: yellow;
     display: flex;
@@ -8,7 +8,7 @@
     justify-content: space-between;
     flex-wrap: nowrap;
 }
-.container .item
+.holder .item
 {
 	width: 100px;
     background-color: orangered;
